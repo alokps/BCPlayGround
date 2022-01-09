@@ -1,2 +1,2 @@
 # BlockChainPlayGround
-Code Repo for BlockChain frameworks
+Code Repo for BlockChain related Projects
